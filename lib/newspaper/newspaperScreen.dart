@@ -37,6 +37,7 @@ class _NewspaperScreenState extends State<NewspaperScreen> {
         centerTitle: true,
         title: const Text('NewsPaper'),
         backgroundColor: Colors.blue[300],
+        
       ),
       body: _loading
           ? const Center(
