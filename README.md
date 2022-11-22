@@ -1,16 +1,9 @@
-# newsapp
+# News App
+# Tools
+1. Flutter
+2. News API(https://newsapi.org/)
 
-A new Flutter project.
+# Screenshot
+<img src="https://user-images.githubusercontent.com/49263226/203307697-a1ed26c0-cd5b-445f-a88a-900b4d5c1ac4.jpeg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/49263226/203307712-dde345dd-7c18-405a-ade3-16e7453b52c2.jpeg" alt="Your image title" width="250"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
